@@ -1,6 +1,6 @@
 # Question 5.1
 
-# Program that taken in the array A and  index i, and rearranges the elements of A such that all the elements less than A[i] (pivot) appear first, followed by elements equal to the pivot, followed by the elements greater than the pivot
+# Program that takes in the array A and  index i, and rearranges the elements of A such that all the elements less than A[i] (pivot) appear first, followed by elements equal to the pivot, followed by the elements greater than the pivot
 
 
 def dutch_flag_partition(arr: list, pivot_index: int):
